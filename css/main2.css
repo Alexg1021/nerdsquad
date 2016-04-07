@@ -1,0 +1,120 @@
+/*  header  */
+header{
+    height: 100px;
+    background-color: blue;
+}
+/*  div .one  */
+.day8 h1{
+    text-align:center;    
+}
+.one{
+    height: 200px;
+    width: 50%;
+    background-color:#FCFC30;
+    float: left;
+}
+    
+.three{
+    height:50px;
+    width: 100%;
+    background-color: #cccccc;
+    clear: both;
+}
+.four{
+    height: 400px;
+    width: 100%;
+    background-color: green;
+}
+.sub-four{
+    height: 100%;
+    width: 900px;
+    background-color: #2EFEF7;
+    
+    margin: 0px auto;
+}    
+.sub-4{
+    height: 100%;
+    width: 250px;
+    background-color: #00F010;
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+.subfour{
+    height: 100%;
+    width: 250px;
+    background-color: #00F010;
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+.foursub{
+    height: 100%;
+    width: 250px;
+    background-color: #00F010;
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+.sub-4 h1{
+ text-align: center;
+}
+.sub-4 p{
+text-align: center;
+}
+.subfour h1{
+ text-align: center; 
+}
+.subfour p{
+ text-align: center;
+}
+.foursub h1{
+ text-align: center;
+}
+.foursub p{
+ text-align: center;    
+}
+.five {
+    height: 200px;
+    width: 100%;
+    background-color: #F403FC;
+}
+.sub5{
+    height: 200px;
+    width: 300px;
+    background-color: #03FCD7;
+    float: left;
+}
+.five h1{
+ text-align: center;
+ margin: 0px;
+}
+.five p{
+ text-align: center;
+}
+.txiong{
+    height: 150px;
+    width: 200px;
+    margin: 30px 20px 0px 20px;
+}
+.six{
+    height: 200px;
+    width: 100%;
+    background-color: #01FB50;
+}
+.box7{
+    height: 300px;
+    width: 100%;
+    background-color: #00727A;
+}
+#form{
+    height: 300px;
+    width: 300px;
+    margin:0 auto;    
+}
+input{
+    width:300px;    
+    height:25px;
+}
+textarea{
+    width:300px;
+    height:100px;
+    margin-bottom:15px;
+}

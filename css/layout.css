@@ -1,0 +1,208 @@
+header{
+    height: 100px;
+    background-color: blue;
+}
+.one{
+    height: 200px;
+    width: 50%;
+    background-color:red;
+    float: left;
+}
+    
+.two{
+    height: 200px;
+    width: 50%;
+    background-color: #ae3156;
+    float: right;
+}
+    
+.three{
+    height:50px;
+    width: 100%;
+    background-color: #cccccc;
+    clear: both;
+}
+.sub-two{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    margin: 50px 0px 10px 50px;
+    border:10px dotted red;
+}
+.sub-one{
+    height: 100px;
+    width: 100px;
+    background-color: #00cccc;
+    margin: 0px auto 0px;    
+}
+.one-sub{
+    height: 50px;
+    width: 50px;
+    background-color: #A9F5A9;
+}
+.no-sub{
+    height: 25px;
+    width: 25px;
+    background-color: #B40431;
+}
+.four{
+    height: 400px;
+    width: 100%;
+    background-color: green;
+}
+.sub-four{
+    height: 100%;
+    width: 900px;
+    background-color: #2EFEF7;
+    
+    margin: 0px auto;
+}    
+.sub-4{
+    height: 100%;
+    width: 250px;
+    background-color: #00F010;
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+.subfour{
+    height: 100%;
+    width: 250px;
+    background-color: #00F010;
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+.foursub{
+    height: 100%;
+    width: 250px;
+    background-color: #00F010;
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+.sub-4 h1{
+ text-align: center;
+}
+.sub-4 p{
+text-align: center;
+}
+.subfour h1{
+ text-align: center; 
+}
+.subfour p{
+ text-align: center;
+}
+.foursub h1{
+ text-align: center;
+}
+.foursub p{
+ text-align: center;    
+}
+.five {
+    height: 200px;
+    width: 100%;
+    background-color: #FC1303;
+}
+.sub5{
+    height: 200px;
+    width: 300px;
+    background-color: #03FCD7;
+    float: left;
+}
+.five h1{
+ text-align: center;
+ margin: 0px;
+}
+.five p{
+ text-align: center;
+}
+.txiong{
+    height: 150px;
+    width: 200px;
+    margin: 30px 20px 0px 20px;
+}
+.six{
+    height: 200px;
+    width: 100%;
+    background-color: #01FB50;
+}
+.box7{
+    height: 100px;
+    width: 100%;
+    background-color: #00727A;
+}
+
+#contact{
+    height: 400px;
+    background-color: blue;
+    padding: 40px 15px;
+}
+
+.form-box{
+    height: 300px;
+    width: 500px;
+    border: 2px solid #333;
+    padding: 30px;
+    margin: 0 auto;
+}
+form{
+    height: 100%;
+    width: 100%;
+}
+#contact label{
+    width: 50px;
+    height: auto;
+}
+
+#contact input{
+    margin: 5px 0;
+    width: 90%;
+    height: 30px;
+}
+
+#contact textarea{
+    margin: 5px 0;
+    width: 90%;
+    height: 150px;
+}
+
+#contact button{
+    height: 40px;
+    width: 150px;
+    border-radius: 0px;
+}
+
+.pic img{
+    height:50%;
+    width: 30%;
+}
+
+#contact{
+    
+}
+
+
+/*
+primary-color:#862C55 (purple)
+secondary-color: A04435(brown)
+third color: #333333; (charcoal grey)
+*/
+
+body, html{
+    margin: 0;
+}
+.container{
+    margin: 0px 25px;
+}
+#banner{
+    background: url("../img/supercar.jpg") center;
+    background-size: cover;
+    height: 200px;
+}
+
+.border{
+    border-bottom: 2px solid #333;
+    margin: 20px 0;
+}
+
+.skills{
+    
+}

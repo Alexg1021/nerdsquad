@@ -1,0 +1,25 @@
+.section{
+    width: 100%;
+    height: 500px;
+    background-color: #abc000;
+}
+
+.space{
+    width: 95%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.article{
+    height: 100%;
+    width: 32%;
+    margin: 0 5px;
+    background-color: #232323;
+    float: left;
+}
+
+.article h1{
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+}
